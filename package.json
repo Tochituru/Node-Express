@@ -1,0 +1,21 @@
+{
+  "name": "node-expres",
+  "version": "1.0.0",
+  "description": "Learning to use node express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tochituru/Node-Express.git"
+  },
+  "author": "Tochituru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tochituru/Node-Express/issues"
+  },
+  "homepage": "https://github.com/Tochituru/Node-Express#readme",
+  "dependencies": {}
+}
