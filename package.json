@@ -17,5 +17,7 @@
     "url": "https://github.com/Tochituru/Node-Express/issues"
   },
   "homepage": "https://github.com/Tochituru/Node-Express#readme",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
